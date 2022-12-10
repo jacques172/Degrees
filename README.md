@@ -7,6 +7,7 @@ Program that determines how many “degrees of separation” apart two actors ar
 $ `python degrees.py data`
 
 Name: Kevin Bacon
+
 Name: Tom Cruise
 
 `output`: 1 degrees of separation.
